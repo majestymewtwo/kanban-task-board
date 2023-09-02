@@ -4,33 +4,33 @@ This is a simple task management app, where users can keep track of their day-to
 The front-end has been done with ReactJS and TailwindCSS. The backend has been done with Node,Express,Mongoose and MongoDB.
 
 ### User Login
-![Login 1](image.png)
+![Login 1](./images/image.png)
 
 ### User Registration
-![Register 1](image-1.png)
+![Register 1](./images/image-1.png)
 
 ### Home Page
-![Home 1](image-2.png)
+![Home 1](./images/image-2.png)
 
 ### Drag and drop tasks
-![Drag 1](image-3.png)
+![Drag 1](./images/image-3.png)
 
 ### Add Tasks
-![Add 1](image-4.png)
-![Add 2](image-5.png)
+![Add 1](./images/image-4.png)
+![Add 2](./images/image-5.png)
 
 ### Edit Tasks
-![Edit 1](image-6.png)
+![Edit 1](./images/image-6.png)
 
 ### Delete Tasks
-![Delete 1](image-7.png)
+![Delete 1](./images/image-7.png)
 
 ### Mobile Responsive Design
-![Login 2](image-8.png)
-![Register 2](image-9.png)
-![Home 2](image-10.png)
-![Add 2](image-12.png)
+![Login 2](./images/image-8.png)
+![Register 2](./images/image-9.png)
+![Home 2](./images/image-10.png)
+![Add 2](./images/image-12.png)
 
 
 ### API Methods for backend
-![API Methods](image-11.png)
+![API Methods](./images/image-11.png)
