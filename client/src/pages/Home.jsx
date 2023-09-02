@@ -54,7 +54,7 @@ export const Home = () => {
     <div className='relative min-h-screen bg-slate-100'>
       <Navbar />
 
-      <div className='flex flex-col md:flex-row items-center md:justify-around'>
+      <div className='flex flex-col md:flex-row items-center md:justify-around md:items-start'>
         {/* To-Do */}
         <div
           className='flex flex-col p-5 space-y-5 md:w-1/3 items-center'
