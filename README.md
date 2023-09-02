@@ -29,6 +29,7 @@ The front-end has been done with ReactJS and TailwindCSS. The backend has been d
 ![Login 2](image-8.png)
 ![Register 2](image-9.png)
 ![Home 2](image-10.png)
+![Add 2](image-12.png)
 
 
 ### API Methods for backend
